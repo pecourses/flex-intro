@@ -1,0 +1,57 @@
+@import './reset.css';
+
+* {
+  box-sizing: border-box;
+}
+/* 
+.outerBlock {
+  width: 100%;
+  height: 100vh;
+  border: 5px solid blue;
+  background-color: dodgerblue;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.innerBlock {
+  width: 200px;
+  height: 200px;
+  border: 5px solid orange;
+  background-color: gold;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.innerBlock2 {
+  border: 5px solid green;
+  background-color: aquamarine;
+} */
+
+.outerBlock {
+  /* width: 100%;
+  height: 100vh; */
+  border: 5px solid blue;
+  background-color: dodgerblue;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.innerBlock {
+  /* width: 200px;
+  height: 200px; */
+  border: 5px solid orange;
+  background-color: gold;
+}
